@@ -42,6 +42,7 @@ try
     {
         "dev15-rc2" { } 
         "master" { } 
+        "upgrade-vssdk" {}
         default
         {
             if (-not $test)
